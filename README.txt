@@ -1,4 +1,4 @@
-Collection of Big Data Algorithms-Università degli Studi di Milano (Sep 2021 -- Jan 2021)
+# Collection of Big Data Algorithms
 A series of algorithms implemented in R and Spark written at UniMi. The focus is on Big Data Analysis techniques, notably:
 
 -research of similar images from a huge dataset using the Locality-Sensitive Hashing with AND/OR amplification.
